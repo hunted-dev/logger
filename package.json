@@ -1,0 +1,15 @@
+{
+  "name": "nexus.log",
+  "version": "0.0.1",
+  "description": "Nexus Logger",
+  "main": "/Source/Index.js",
+  "scripts": {
+    "test": "node Source/Test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nexus-jager/logger.git"
+  },
+  "author": "nexus-jager",
+  "license": "MIT"
+}
